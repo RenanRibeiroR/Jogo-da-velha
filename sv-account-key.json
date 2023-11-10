@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jogo-da-velha-8635e",
+  "private_key_id": "f9b5c267c4b0bcfe6e6d7ec0de83873567b57b33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs6up1X0wkusbi\ngDxsPzvTm63udr9P8Z1NBHlDeKlFLv6ermgp8n7Wcop1O0JYEPdsS0k0a04p2+T8\ndWPpoyNKNvnLX3Roc8YqXNC7RP0ZRnmMLOcbgS7A2TPvxfhXGyAfgSS/aN57s1DG\n/odEoc5JoCWZdi0dH5aNot8lSpnY4Bqp63TgdqG0OW2GNRKrMq3/XHUL8PNppfH9\nvavoj0j//dG1F/RXR064PHTTWUo5Kb8KPTnf7EqAqKZ/XFFnCZzVxRpo3LHG1Pkc\n99mqdnVHh7zbf+hrDEI3eJCvX/fD7E2MYlEUlfBRdybqhUB0p6l+eg+phCF5ulED\nhxMhz2XzAgMBAAECggEAUbDr0kaS0Plic2hU42jeSULPoYx9JnYFs/iMl3keMv6Y\nMPxBXqvfC03ypp634aYmVgWdUIPvWew2WqTU7nBxgCLH0TJH6v7jHGlb/VUC45l9\nW+Fsz3wwy8/xbvIOuIwqmWeoJjuTfEpDO7fMzPpKXFMp4D3J42vkcwaCuHntg9zZ\nOvdKjd/8UhCX2hwssxmaqpOaP7sfz0dF/P1Sd+/3XL2k8sHDt3262AvszK18TmyE\n9lNEhdBIU9uSPjj3z30skVrmzd1RaKQ+KAh1GzxCgR2dbuW3S/8GC+LvM0ngL2V5\ntp2RqOEnQyl4j7el6KCJ00zGxQXrKCWkbExRKy1foQKBgQDVSat6ZIJRCN1DxmpQ\n2aTeaTl5qLaoiZyDog/SlT+Xkn6c1RHSyKe/UhkQm5eGyKxIbwVLoBMSr2Axczei\ngjG7p3le8mRttCGZWT7UGiz0uPIYeZFgztorOZs9eFyXksRZIeJLULF02YTIuvk7\nrWaHQ8M8vdXyPAqKezJf0jvg4QKBgQDPi6VlzTk1mkH3LrlRDpFOYk3rvsvhhmUf\n7Ct3RwM/9rwRdFGiMqexhBaLM7+fP+pCTEl9XpRSK/I2qiD0Mf/V+yxISF5iPpmi\n7QnltEJ1r2V8qECwx9IkytDmsw7n+fncrUf08ZbImelADvnrmVc/bRm8xoqofL0L\nrU4LcWwdUwKBgAHYZFJnwjTfRcLLWaofZ+zArk2eJw5oOmFtKoPg5K70BoJm2YOg\nVssx86OQJQx2ef8abspLtT6JI+TpoUaXp8R+22712+aTE2NXQVLmcxMe8oFBs/9J\natvK4Mv0WaC6FVbME0Ahj5d6NkriSzu38VYkQPEql0pEOLcf/7ySfhAhAoGAeSt4\ndwTn36md1ahLvU0Z/H9cKsSL17FVHNwPTGYDObbdeftFJcMZMISDfOXLfDgelnJf\nfXhYc9kAYnXVI3yFdvJbmh/WKtmNbRei7Z7eJkMupya8Dfm7cIuQhwAHNdw1ymbI\nWfMqKxfgm+uicbBmxbr2icYIcfHRlR2rMPcZPc0CgYAO3G6U6O61kM4awAP8yFY/\nTAuslYRdWa5xl0ttZaRJuCWxnES8BkO4sf72PQQ9SRx9h9NyKA9bvBheWZjiMVN2\n3dXSlifqIVq1xZayRrhhAKUa7geI3Zc8KJyI2K8Y2ogIbl/S3MtGV73SB0xrly4Y\nwc1u19HrwCm35T4sUInLDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xtcps@jogo-da-velha-8635e.iam.gserviceaccount.com",
+  "client_id": "111908926341357328857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xtcps%40jogo-da-velha-8635e.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
